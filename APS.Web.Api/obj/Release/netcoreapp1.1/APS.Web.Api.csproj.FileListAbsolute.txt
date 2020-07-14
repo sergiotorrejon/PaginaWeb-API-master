@@ -1,0 +1,9 @@
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\bin\Release\netcoreapp1.1\APS.Web.Api.deps.json
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\bin\Release\netcoreapp1.1\APS.Web.Api.runtimeconfig.json
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\bin\Release\netcoreapp1.1\APS.Web.Api.runtimeconfig.dev.json
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\bin\Release\netcoreapp1.1\APS.Web.Api.dll
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\bin\Release\netcoreapp1.1\APS.Web.Api.pdb
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\obj\Release\netcoreapp1.1\APS.Web.Api.csprojResolveAssemblyReference.cache
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\obj\Release\netcoreapp1.1\APS.Web.Api.AssemblyInfo.cs
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\obj\Release\netcoreapp1.1\APS.Web.Api.dll
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\obj\Release\netcoreapp1.1\APS.Web.Api.pdb

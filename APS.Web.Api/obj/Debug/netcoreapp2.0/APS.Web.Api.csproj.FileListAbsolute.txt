@@ -1,0 +1,50 @@
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.deps.json
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.runtimeconfig.json
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.runtimeconfig.dev.json
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.dll
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.pdb
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.csprojResolveAssemblyReference.cache
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.csproj.CoreCompileInputs.cache
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.AssemblyInfoInputs.cache
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.AssemblyInfo.cs
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.dll
+G:\FUENTES_2017\APS.Web.Api\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.pdb
+C:\Users\sergio torrejon\Desktop\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\sergio torrejon\Desktop\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\sergio torrejon\Desktop\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\sergio torrejon\Desktop\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.deps.json
+C:\Users\sergio torrejon\Desktop\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.runtimeconfig.json
+C:\Users\sergio torrejon\Desktop\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.runtimeconfig.dev.json
+C:\Users\sergio torrejon\Desktop\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.dll
+C:\Users\sergio torrejon\Desktop\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.pdb
+C:\Users\sergio torrejon\Desktop\PaginaWeb-API-master\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.csprojAssemblyReference.cache
+C:\Users\sergio torrejon\Desktop\PaginaWeb-API-master\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.AssemblyInfoInputs.cache
+C:\Users\sergio torrejon\Desktop\PaginaWeb-API-master\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.AssemblyInfo.cs
+C:\Users\sergio torrejon\Desktop\PaginaWeb-API-master\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.dll
+C:\Users\sergio torrejon\Desktop\PaginaWeb-API-master\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.pdb
+C:\Users\sergio torrejon\Desktop\sistemas APS\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\sergio torrejon\Desktop\sistemas APS\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\sergio torrejon\Desktop\sistemas APS\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\sergio torrejon\Desktop\sistemas APS\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.deps.json
+C:\Users\sergio torrejon\Desktop\sistemas APS\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.runtimeconfig.json
+C:\Users\sergio torrejon\Desktop\sistemas APS\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.runtimeconfig.dev.json
+C:\Users\sergio torrejon\Desktop\sistemas APS\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.dll
+C:\Users\sergio torrejon\Desktop\sistemas APS\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.pdb
+C:\Users\sergio torrejon\Desktop\sistemas APS\PaginaWeb-API-master\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.csprojAssemblyReference.cache
+C:\Users\sergio torrejon\Desktop\sistemas APS\PaginaWeb-API-master\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.AssemblyInfoInputs.cache
+C:\Users\sergio torrejon\Desktop\sistemas APS\PaginaWeb-API-master\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.AssemblyInfo.cs
+C:\Users\sergio torrejon\Desktop\sistemas APS\PaginaWeb-API-master\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.dll
+C:\Users\sergio torrejon\Desktop\sistemas APS\PaginaWeb-API-master\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.pdb
+C:\Users\sergio torrejon\Desktop\2020\aps\desarrollo\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\sergio torrejon\Desktop\2020\aps\desarrollo\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\sergio torrejon\Desktop\2020\aps\desarrollo\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\sergio torrejon\Desktop\2020\aps\desarrollo\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.deps.json
+C:\Users\sergio torrejon\Desktop\2020\aps\desarrollo\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.runtimeconfig.json
+C:\Users\sergio torrejon\Desktop\2020\aps\desarrollo\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.runtimeconfig.dev.json
+C:\Users\sergio torrejon\Desktop\2020\aps\desarrollo\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.dll
+C:\Users\sergio torrejon\Desktop\2020\aps\desarrollo\PaginaWeb-API-master\APS.Web.Api\bin\Debug\netcoreapp2.0\APS.Web.Api.pdb
+C:\Users\sergio torrejon\Desktop\2020\aps\desarrollo\PaginaWeb-API-master\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.csprojAssemblyReference.cache
+C:\Users\sergio torrejon\Desktop\2020\aps\desarrollo\PaginaWeb-API-master\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.AssemblyInfoInputs.cache
+C:\Users\sergio torrejon\Desktop\2020\aps\desarrollo\PaginaWeb-API-master\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.AssemblyInfo.cs
+C:\Users\sergio torrejon\Desktop\2020\aps\desarrollo\PaginaWeb-API-master\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.dll
+C:\Users\sergio torrejon\Desktop\2020\aps\desarrollo\PaginaWeb-API-master\APS.Web.Api\obj\Debug\netcoreapp2.0\APS.Web.Api.pdb
